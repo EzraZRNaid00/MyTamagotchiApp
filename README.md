@@ -1,0 +1,2 @@
+# MyTamagotchiApp
+ imad assignment2
